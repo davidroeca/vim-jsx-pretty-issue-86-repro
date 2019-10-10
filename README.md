@@ -11,7 +11,7 @@ Reproduction should be as simple as:
 make build
 make run
 # once within the container
-nvim -O src/test.js src/test.ts
+nvim -O src/test.js src/test.tsx
 ```
 
 ## Cleanup
